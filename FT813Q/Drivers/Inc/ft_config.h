@@ -1,0 +1,7 @@
+#ifndef DRIVERS_INC_FT_CONFIG_H_
+#define DRIVERS_INC_FT_CONFIG_H_
+
+#define FT813
+#define FT_NUMBER_OF_TOUCHES  5
+
+#endif /* DRIVERS_INC_FT_CONFIG_H_ */

@@ -1,0 +1,25 @@
+#ifndef FRAMEWORK_INC_FT_CO_PRO_COMMANDS_OPTIONS_H_
+#define FRAMEWORK_INC_FT_CO_PRO_COMMANDS_OPTIONS_H_
+
+#define FT_OPT_3D         0
+#define FT_OPT_RGB565     0
+#define FT_OPT_MONO       1
+#define FT_OPT_NODL       2
+#define FT_OPT_FLAT       256
+#define FT_OPT_SIGNED     256
+#define FT_OPT_CENTERX    512
+#define FT_OPT_CENTERY    1024
+#define FT_OPT_CENTER     1536
+#define FT_OPT_RIGHTX     2048
+#define FT_OPT_NOBACK     4096
+#define FT_OPT_NOTICKS    8192
+#define FT_OPT_NOHM       16384
+#define FT_OPT_NOPOINTER  16384
+#define FT_OPT_NOSECS     32768
+#define FT_OPT_NOHANDS    49152
+#define FT_OPT_NOTEAR     4
+#define FT_OPT_FULLSCREEN 8
+#define FT_OPT_MEDIAFIFO  16
+#define FT_OPT_SOUND      32
+
+#endif /* FRAMEWORK_INC_FT_CO_PRO_COMMANDS_OPTIONS_H_ */

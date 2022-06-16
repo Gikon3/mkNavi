@@ -1,0 +1,8 @@
+#ifndef PICTURES_INC_LIGHTING_WHITE_11X18_ARGB2_H_
+#define PICTURES_INC_LIGHTING_WHITE_11X18_ARGB2_H_
+
+#include "ft_image.h"
+
+extern const FT_Picture lightingWhite11x18ARGB2;
+
+#endif /* PICTURES_INC_LIGHTING_WHITE_11X18_ARGB2_H_ */

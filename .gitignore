@@ -1,0 +1,9 @@
+/Debug
+/ATB
+/ATV
+/Debug ATB
+/Debug ATV
+.mxproject
+*.launch
+.settings/stm32cubeide.project.prefs
+.settings/language.settings.xml
